@@ -1,0 +1,16 @@
+[
+{
+  "modid": "GameTime",
+  "name": "Game Time",
+  "description": "Game Time keeps track of the amount of time you have played Minecraft in that session and as long as you have been using the mod.",
+  "version": "1.0.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Litl_Toast"],
+  "credits": "The Downloaders",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
